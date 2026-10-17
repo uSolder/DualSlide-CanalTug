@@ -60,7 +60,7 @@
  * deposits on jobs, and never saves, so the real career is left as it was.
  * Set it back to 0 for normal play.
  */
-#define TUG_TEST_MODE               (1)
+#define TUG_TEST_MODE               (0)
 #define TUG_TEST_MONEY              (1000000)
 #define TUG_CARGO_TYPE_COUNT    (28U)
 #define TUG_OFFER_COUNT         (3U)
